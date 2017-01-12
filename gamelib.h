@@ -1,3 +1,9 @@
+/*
+	© Creato da Fabio Sacerdote
+   	12-02-2016
+	https://www.nacheso.com/nacheso/code-it/
+*/
+
 #include <iostream>
 #include <ctime>
 #include <unistd.h>
